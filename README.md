@@ -1,6 +1,6 @@
-# Birthday Notifier
+# 🎂 Birthday Notifier 🔔
 
-A simple Python script to notify you about upcoming birthdays.
+🐍 A simple Python script to notify 🔔 you about upcoming birthdays 🎂.
 
 ## Table of Contents
 
