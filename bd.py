@@ -24,6 +24,7 @@ while True:
 
                     title = "Birthdays",
                     message = message,
+                    app_icon = "birthday.ico",
                     timeout=15
                     
                 )
