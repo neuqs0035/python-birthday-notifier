@@ -22,7 +22,7 @@ while True:
 
                 notification.notify(
 
-                    title = "Birthdays",
+                    title = "Birthday Notifier",
                     message = message,
                     app_icon = "birthday.ico",
                     timeout=15
